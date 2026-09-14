@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-![Sustentabilidade](https://img.shields.io/badge/Sustentabilidade-%C3%81gua-0077B6?style=for-the-badge)
+[![Sustentabilidade](https://img.shields.io/badge/Sustentabilidade-%C3%81gua-0077B6?style=for-the-badge)](https://www.unwater.org/)
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido para a **campanha de conscientização ambiental** da companhia de saneamento local. O objetivo do sistema é classificar o perfil de consumo de água dos imóveis (residenciais e comerciais) e emitir alertas educativos para incentivar a economia e identificação de vazamentos.
