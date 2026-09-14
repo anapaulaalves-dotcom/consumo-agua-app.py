@@ -27,4 +27,4 @@ Este projeto foi desenvolvido para a **campanha de conscientização ambiental**
 
 1. Clone o repositório:
    ```bash
-   git clone [git clone https://github.com/anapaulaalves-dotcom/consumo-agua-app.py.git](git clone https://github.com/anapaulaalves-dotcom/consumo-agua-app.py.git)
+   git clone [https://github.com/anapaulaalves-dotcom/consumo-agua-app.py.git](https://github.com/anapaulaalves-dotcom/consumo-agua-app.py.git)
